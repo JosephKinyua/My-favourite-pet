@@ -1,0 +1,141 @@
+.pet h1 {
+    text-align: center;
+    color: rgb(218, 113, 81);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.pet img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+}
+
+h2 {
+    color: rgb(238, 130, 6);
+    text-align: center;
+}
+
+.about {
+    width: 30%;
+    font-size: 20px;
+}
+
+.characteristic {
+    font-size: 20px;
+}
+
+.Germany {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+P {
+    font-size: 20px;
+}
+
+.types {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    justify-content: center;
+}
+
+.saddle img {
+    height: 300px;
+    width: 300px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+    padding-right: 20px;
+}
+
+.black img {
+    height: 300px;
+    width: 300px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+    padding-right: 20px;
+}
+
+.panda img {
+    height: 300px;
+    width: 300px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+    padding-right: 20px;
+}
+
+.samble img {
+    height: 300px;
+    width: 300px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+    padding-right: 20px;
+}
+
+.white img {
+    height: 300px;
+    width: 300px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+}
+
+.types p {
+    font-style: italic;
+    color: rgb(238, 130, 6);
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+}
+
+#input {
+    width: 13%;
+    padding: 15px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+
+#sub {
+    width: 13%;
+    padding: 15px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(238, 130, 6);
+}
